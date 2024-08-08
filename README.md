@@ -1,2 +1,3 @@
-# gowc
-Building the ‘wc’ CLI tool in Go
+# 100-apps-in-go
+
+1. [wc](wc)
